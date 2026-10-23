@@ -1,6 +1,6 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
 # Name: DASHVIN S
-# Reg no: 212224240014
+# Reg no: 212224100008
 
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
